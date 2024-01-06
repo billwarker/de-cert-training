@@ -5,7 +5,7 @@ Shit, they produced/distributed:
 - Good Time, Uncut Gems
 - Stop Making Sense
 - The Lighthouse, The Northman
-- Dream Scenario
+- Dream Scenario, Dicks: The Musical
 
 And many, many other great films I enjoy.
 
@@ -16,9 +16,13 @@ And many, many other great films I enjoy.
 - Connects me to popular culture, as well as history
 - It's interesting, entertainment is part of what makes life worth living. Provides opportunities for peak human and creative experiences
 
+## Why + Data
 
-- The business of film is compelling. Offers interesting data collection.
-- It's digital
+- The business of film is compelling. Opportunities for interesting data collection.
+- It's digital, the business of film distribution and production will need to factor in changes in technology, entertainment business, popular culture. Data-driven insight can be an invaluable aid to great artistic taste and business sensibility.
+- Insight that helps bring more great film to life
+
+# Path
 
 ## 1a. \[OPTIONAL\] Get a job related to data + entertainment/film industry
 
@@ -35,12 +39,16 @@ Depends on availability and what job market looks like in Toronto, NYC, East Coa
 
 - Wikipedia, Industry News
 - Understand the values, mission, brand 
+- A24 History and Art-House film
+- The stories/people/business behind some of my favourite movies
 
 ## 1b. \[OPTIONAL\] Masters Studies in Film
 
 ### https://www.cinema.utoronto.ca/graduate/ma-program
 
 - Full-time program... let's see about that
+- Data + Journalism + Critical Theory + Cultural Analysis
+
 
 ## 2. Create interesting and insightful DA/DE projects centred around gathering, aggregating, and presenting film industry data (perhaps around A24 specifically). Open source, weekly/monthly reports.
 
@@ -60,9 +68,16 @@ Depends on availability and what job market looks like in Toronto, NYC, East Coa
 - Nielson ratings
 - Metacritic, Rotten Tomatoes
 - Letterboxd
+
 - Wikipedia
+https://en.wikipedia.org/wiki/List_of_A24_films
+
 - Youtube
 - IMDB
+
+### Do it in the Cloud
+
+- GCP seems like a good fit for a lot of daily scrapers, online DWH, etc.
 
 ## 3. Present work on socials under a consistent brand
 
@@ -81,9 +96,3 @@ Depends on availability and what job market looks like in Toronto, NYC, East Coa
 - Connect on socials somehow
 - Events (be in NYC?)
 - Somehow build the network
-
-
-
-
-
-
