@@ -4,11 +4,12 @@ steps:
   - gcloud
   - functions
   - deploy
-  - wiki_film_scraper
+  - wiki-film-scraper
   - --region=us-east1
   - --source=.
   - --trigger-http
   - --runtime=python310
+  - --entry-point=wiki_film_scraper
 
 options:
   logging: CLOUD_LOGGING_ONLY
