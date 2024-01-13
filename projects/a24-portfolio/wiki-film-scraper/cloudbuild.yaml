@@ -1,0 +1,11 @@
+steps:
+- name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+  args:
+  - gcloud
+  - functions
+  - deploy
+  - wiki_film_scraper
+  - --region=northamerica-northeast2
+  - --source=.
+  - --trigger-http
+  - --runtime=RUNTIME
