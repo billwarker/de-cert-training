@@ -54,4 +54,4 @@ def wiki_film_scraper(request):
     valid_sections = ['2010s', '2020s', 'Dated films']
     final_df = pd.concat([pd.DataFrame.from_dict(t[1], orient='index') for t in table_data if t[0] in valid_sections], ignore_index=True)
 
-    return final_df
+    return final_df.to_string()
